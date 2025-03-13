@@ -43,7 +43,7 @@
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.03312-red?logo=arxiv" height="14" />  [Inference Optimal VLMs Need Only One Visual Token but Larger Models](https://arxiv.org/pdf/2411.03312) .[QueCC;[Github](https://github.com/locuslab/llava-token-compression)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.23782-red?logo=arxiv" height="14" />  [Video Token Merging for Long-form Video Understandin](https://arxiv.org/pdf/2410.23782) .[Learnable VTM;Video]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.17434-red?logo=arxiv" height="14" />  [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434) .[LongVU;Video;[Github](https://github.com/Vision-CAIR/LongVU)]
--  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.17247-red?logo=arxiv" height="14" />  [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction](https://arxiv.org/pdf/2410.17247) .[PyramidDrop;[Github](https://github.com/Cooperx521/PyramidDrop)]
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.17247-red?logo=arxiv" height="14" />  [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction](https://arxiv.org/pdf/2410.17247) .[PyramidDrop;CVPR2025;[Github](https://github.com/Cooperx521/PyramidDrop)]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.14072-red?logo=arxiv" height="14" />  [Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers](https://arxiv.org/pdf/2410.14072) .[Victor;]
 
